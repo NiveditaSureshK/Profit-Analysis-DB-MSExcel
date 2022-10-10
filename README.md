@@ -30,10 +30,12 @@ When used as part of good business practices in a Financial Planning & Analysis 
 <p align="center"><img width="446" alt="image" src="https://user-images.githubusercontent.com/71536311/194795943-fd7393b5-1a86-433d-b5e6-3ea09bc1db3b.png"></p>
 <p align="center"><img width="446" alt="image" src="https://user-images.githubusercontent.com/71536311/194795986-1eef4787-767f-43db-bd35-0ceb3c864442.png"></p>
 
-- Easy-to-read cards for smart and rapid decision-making, visualize critical KPIs such as the number of transactions, total customers, current items, and regions the company sells to.
+- Easy-to-read cards for smart and rapid decision-making, visualize critical KPIs such as the number of transactions, total customers, current items, COGS, revenue, profit, quantity sold and regions the company sells to.
 
-<p align="center"><img width="740" alt="image" src="https://user-images.githubusercontent.com/71536311/194795805-457e140d-3f10-4d8e-a326-910804e73bc0.png"></p>
-   
+<p align="center"><img width="760" alt="image" src="https://user-images.githubusercontent.com/71536311/194795805-457e140d-3f10-4d8e-a326-910804e73bc0.png"></p>
+<p align="center"><img width="760" alt="image" src="https://user-images.githubusercontent.com/71536311/194879316-d6ca0bfd-35b8-4357-9bf8-8efc765e97cc.png"></p>
+
+
 ### Active filters needed to interact with the data and the dashboard 
 Country, products, and months
 
