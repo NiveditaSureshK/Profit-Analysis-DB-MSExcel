@@ -1,9 +1,12 @@
 # Profit-Analysis-DB-Excel
 
 ## Problem Statement
+This dynamic and highly intuitive DAX-based eCommerce dashboard offers a real-time snapshot of the financial position of a business and facilitates future planning by highlighting metrics that directly impact the business's bottom line.
+
+When used as part of good business practices in a Financial Planning & Analysis (FP&A) department, financial dashboards improve its executives’ ability to always keep an eye on the essential KPIs, as well as, reduce the chances that important decisions are delayed because executives don’t have easy, self-service insight to performance.
 
 ## Dataset Used
-- The dataset utilized in this class has its origins in the Sales data folder, and it contains data from 2019 to 2021.
+- The dataset utilized in this dashboard has its origins in the Sales data folder, and it contains data from 2019 to 2021.
 - The data in this folder is termed the Fact Table; a table that contains transaction details such as purchases, quantities, order dates, and certain crucial IDs that will link the Dim (Dimension) Tables.
 - Five or six Dim Tables utilize Power Pivot to manage and construct associations, allowing us to generate our analysis with a free flow of data.
 
