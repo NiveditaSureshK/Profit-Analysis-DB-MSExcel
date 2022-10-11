@@ -37,7 +37,9 @@ When used as part of good business practices in a Financial Planning & Analysis 
 
 
 ### Active filters needed to interact with the data and the dashboard 
-Country, products, and months
+- Country, products, and months
+   - Using these filters, the user can quickly select options to consolidate one or multiple companies, as well as, change periods.
+
 
 <p align="center"><img width="130" alt="image" src="https://user-images.githubusercontent.com/71536311/194792337-e51e0748-9cb3-47ad-b054-4b3ae6589d29.png"></p>
 </br><p align="center"><img width="133.5" alt="image" src="https://user-images.githubusercontent.com/71536311/194792373-ca50668c-6270-40d6-a475-b0c2fe703dca.png"></p>
@@ -46,14 +48,16 @@ Country, products, and months
 ## Tools Used
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- Utilized Power Query to extract and transform the data, then transferred the data to Power Pivot for further analysis.
-- Power Pivot is used to store our data for further exploration in the future, if the number of rows increases into the millions.
-- Implemented OFFSET and COUNTA functions to prepare reports that interpret transaction, order, COGS, revenue, and net profit on a monthly and quarterly basis, by sales channel, by sales regions and by item types sold over time.
+- Utilized **Power Query** to extract and transform the data, then transferred the data to **Power Pivot** for further analysis.
+- Leveraged **DAX** to define custom calculations in **Power Pivot** to generate reports on customer analysis and year-to-date profit trends using the **RELATED, SUMX,** and **SUM** functions.
+- Implemented **DISTINCTCOUNT**, **COUNTROWS** and **IF** functions to calculate the number of customers sold to overtime, total number of transactions and other KPI's respectively.
+- Automated manual filter removal using **macros** and **VBA**.
 
 ## Overview
 
 <p align="center"><img width="950" alt="image" src="https://user-images.githubusercontent.com/71536311/194843769-c0f97704-4bd3-46a6-a5ef-20dff877fd62.png"></p>
 
 ![db](https://user-images.githubusercontent.com/71536311/194878977-c8320e43-6305-41b3-87fa-f540ebcf241c.gif)
+
 
 
